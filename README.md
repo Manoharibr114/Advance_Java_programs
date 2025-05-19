@@ -36,3 +36,14 @@ program_3a
 pgm 3a output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3a.png)
 
 program_3b
+
+pgm 3b_1 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_1.png)
+
+pgm 3b_2 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_2.png)
+
+pgm 3b_3 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_3.png)
+
+pgm 3b_4 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_4.png)
+
+pgm 3b_5 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_5.png)
+
