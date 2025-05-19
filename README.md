@@ -4,3 +4,5 @@ Pgm_a1_ArrayList and a LinkedList output-link-(https://github.com/Manoharibr114/
 Exercise_Program1_Arraylist
 
 ArrayList_1-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_b1.png)
+
+ArrayList_2-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_b2.png)
