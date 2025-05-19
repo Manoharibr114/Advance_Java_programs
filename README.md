@@ -24,3 +24,7 @@ LinkedList_3-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/P
 LinkedList_4-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_c4.png)
 
 LinkedList_5-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_c5.png)
+
+Program2_String_Operation
+
+pgm 2b output-link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_2b.png)
