@@ -37,13 +37,24 @@ pgm 3a output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/
 
 program_3b
 
-pgm 3b_1 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_1.png)
+pgm 3b_1 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_1.png)
 
-pgm 3b_2 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_2.png)
+pgm 3b_2 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_2.png)
 
-pgm 3b_3 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_3.png)
+pgm 3b_3 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_3.png)
 
-pgm 3b_4 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_4.png)
+pgm 3b_4 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_4.png)
 
-pgm 3b_5 output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_5.png)
+pgm 3b_5 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3b_5.png)
 
+program_3c
+
+pgm 3c_6 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3c_1.png)
+
+pgm 3c_7 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3c_2.png)
+
+pgm 3c_8 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3c_3.png)
+
+pgm 3c_9 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3c_4.png)
+
+pgm 3c_10 o/p link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3c_5.png)
