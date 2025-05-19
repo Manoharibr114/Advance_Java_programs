@@ -30,3 +30,9 @@ Program2_String_Operation
 pgm 2a output-link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_2a.png)
 
 pgm 2b output-link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_2b.png)
+
+program_3a
+
+pgm 3a output link-(https://github.com/Manoharibr114/Advance_Java_programs/blob/main/Pgm_3a.png)
+
+program_3b
